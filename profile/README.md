@@ -1,5 +1,8 @@
 # BUSPH-HSPH CAFE RCC GitHub Organization
-Welcome to the CAFE RCC GitHub Organization page! The CAFE Research Coordinating Center (RCC) is a joint initiative by the Boston University School of Public Health and Harvard T.H. Chan School of Public Health.  
+Welcome to the CAFE RCC GitHub Organization page! Here you can find code repositories for tutorials and example analyses developed and maintained by the CAFE team.  
+
+If you are looking for our Dataverse Collection, [click here])(https://dataverse.harvard.edu/dataverse.xhtml?alias=CAFE).  
+If you are looking for our official website, [click here](https://www.climatehealthcafe.org/).  
 
 ## Tutorials and Code Sharing
 CAFE RCC has a established this community GitHub organization to share code, examples, and tutorials on working with common data formats and sources. We are assembling a collection of standard operating procedures (SOPs) for data processing, integration, harmonization, and analysis with code and tutorials in order to facilitate reproducibility and reusability for the climate and health Community of Practice.  
@@ -11,11 +14,7 @@ All code repositories on GitHub whose content is intended to be shared with the 
 ## Current Tutorials and Code Walkthroughs
 Our CAFE team members have created tutorials and code examples for several key data management procedures and common analysis challenges that climate and health researchers may encounter. These tutorials are intended to provide usable example materials that researchers can download and step through on their own. Many of these materials are still under active development, so please check back regularly for updates.
 
-Below is a live embedding of the spreadsheet of our current tutorials (both published and under development). [Click here](https://docs.google.com/spreadsheets/d/e/2PACX-1vT2fXkP5T8EvnTeF3yuOmv3w6AWkYiHpasJqEO9hpiMtKWn3V8baEjr1sVQbWL5vAI7GClMqzhlaRfS/pubhtml) to view the full spreadsheet directly.
-
-<div style="text-align: center">
-  <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT2fXkP5T8EvnTeF3yuOmv3w6AWkYiHpasJqEO9hpiMtKWn3V8baEjr1sVQbWL5vAI7GClMqzhlaRfS/pubhtml?widget=true&amp&headers=false&rm=minimal&chrome=false" width="100%" height="600" scrolling="yes" style="border: 2px solid grey;"></iframe>
-</div>
+You can find our tutorials by browsing the repositories here on our GitHub page, or [click here](https://docs.google.com/spreadsheets/d/e/2PACX-1vT2fXkP5T8EvnTeF3yuOmv3w6AWkYiHpasJqEO9hpiMtKWn3V8baEjr1sVQbWL5vAI7GClMqzhlaRfS/pubhtml) to view a spreadsheet detailing our current tutorials (both published and under development).
 
 ## Expanding Our Efforts
 
