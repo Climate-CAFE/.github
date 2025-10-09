@@ -1,0 +1,4 @@
+# .gitignore for Climate-CAFE/.github
+
+# Desktop browser files
+.DS_Store
