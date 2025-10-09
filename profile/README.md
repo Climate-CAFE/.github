@@ -1,4 +1,4 @@
-![](https://github.com/Climate-CAFE/.github/blob/main/profile/imgs/2024_CAFE_Logo_RGB_300dpi_Primary_Full_Color.png)
+![](https://github.com/Climate-CAFE/.github/blob/main/profile/imgs/2024_CAFE_Logo_RGB_150dpi_Primary_Full_Color.png)
 
 # BUSPH-HSPH CAFE RCC GitHub Organization
 Welcome to the CAFE RCC GitHub Organization page! Here you can find code repositories for tutorials and example analyses developed and maintained by the CAFE team.  
