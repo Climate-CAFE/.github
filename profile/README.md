@@ -1,9 +1,11 @@
+<img width="35%" src="https://github.com/Climate-CAFE/.github/blob/main/profile/imgs/2024_CAFE_Logo_RGB_300dpi_Primary_Full_Color.png"/>  
+
 # BUSPH-HSPH CAFE RCC GitHub Organization
-<img width="30%" align="right" src="https://github.com/Climate-CAFE/.github/blob/main/profile/imgs/2024_CAFE_Logo_RGB_300dpi_Primary_Full_Color.png"/>
 Welcome to the CAFE RCC GitHub Organization page! Here you can find code repositories for tutorials and example analyses developed and maintained by the CAFE team.  
 
-If you are looking for our Dataverse Collection, [click here](https://dataverse.harvard.edu/dataverse.xhtml?alias=CAFE).  
-If you are looking for our official website, [click here](https://www.climatehealthcafe.org/).  
+Additional CAFE resource links:
+- [Official CAFE RCC website](https://www.climatehealthcafe.org/).  
+- [CAFE Dataverse Collection](https://dataverse.harvard.edu/dataverse.xhtml?alias=CAFE).  
 
 ## Tutorials and Code Sharing
 CAFE RCC has a established this community GitHub organization to share code, examples, and tutorials on working with common data formats and sources. We are assembling a collection of standard operating procedures (SOPs) for data processing, integration, harmonization, and analysis with code and tutorials in order to facilitate reproducibility and reusability for the climate and health Community of Practice.  
